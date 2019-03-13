@@ -1,0 +1,11 @@
+﻿  Source.c
+c:\users\keane\documents\advanced procedural programming\lab 3\lab 3\source.c(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\keane\documents\advanced procedural programming\lab 3\lab 3\source.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\keane\documents\advanced procedural programming\lab 3\lab 3\source.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\users\keane\documents\advanced procedural programming\lab 3\lab 3\source.c(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\keane\documents\advanced procedural programming\lab 3\lab 3\source.c(18): warning C4101: 'fp': unreferenced local variable
+  Lab 3.vcxproj -> C:\Users\Keane\Documents\Advanced Procedural Programming\Lab 3\Debug\Lab 3.exe
